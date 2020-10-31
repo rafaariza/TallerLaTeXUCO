@@ -4,30 +4,31 @@
 \author{Rafael Jurado Ariza}
 \date{\today}
 \begin{document}
-    Hola esto es una ecuación en línea con el texto $1+1=2$\\ %para dejar una línea entre, medias ecuaciones en linea van entre dolar
+    Hola esto es una ecuación en línea con el texto $1+1=2$\\
     Esto es una ecuación:
-
-    \begin{equation} %le da un numero
+    \begin{equation} 
         1+1=2
     \end{equation}
-
     \begin{equation*}
-        E_1=mc^2 %la barrabaja es para poner subindices
-    \end{equation*}%con ambos asteriscos quitas lo de los numeros
-
+        E_1=mc^2 
+    \end{equation*}
+    
     Esto es una ecuación en varias líneas
-
     \begin{align*}
         2+2&=6-2\\
-        &=4=\frac{12}{4} %escribir en varias lineas
+        &=4=\frac{12}{4}
     \end{align*}
-
     Corchetes  y parentesis 
-
     \begin{equation*}  
-        \left(1+1=2 \frac{5}{2}\right)
-        \varepsilon %es el epsilon bonito
+        \left(1+1=2\frac{5}{2}\right)
+        \varepsilon 
     \end{equation*}
-
-    \newpage %nueva página
+    \begin{figure}
+        \centering
+        \includegraphics[scale=0.18]{Ionization_energy.png}
+        \caption{Esto es un taller}
+        \label{fig:energy}
+    \end{figure}
+    \newpage 
+    Esto es la figura \ref{fig:energy}
 \end{document}
