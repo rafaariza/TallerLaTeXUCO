@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1604150967 "c:/Users/rocio/Documents/latex_pruebas/TallerLaTeXUCO/taller.tex" "c:/Users/rocio/Documents/latex_pruebas/TallerLaTeXUCO/PDF/taller.pdf" "taller" 1604150971
+["pdflatex"] 1604150967 "c:/Users/rocio/Documents/latex_pruebas/TallerLaTeXUCO/taller.tex" "c:/Users/rocio/Documents/latex_pruebas/TallerLaTeXUCO/PDF/taller.pdf" "taller" 1604151170
   "C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1001771820 2971 def0b6c1f0b107b3b936def894055589 ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/jknappen/ec/ecrm1000.tfm" 993058522 3148 7e594c8240c71e432203f65ab5f95a51 ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/jknappen/ec/ecrm1200.tfm" 993058526 3152 4850ff0163852b7fab34bd55e1197f28 ""
@@ -108,14 +108,14 @@
   "PDF/taller.aux" 1604150970 1107 8128ed6fcb2228d786748ce627a9df9e "pdflatex"
   "PDF/taller.out" 1604150969 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "c:/Users/rocio/Documents/latex_pruebas/TallerLaTeXUCO/PDF/taller.aux" 1604150970 1107 8128ed6fcb2228d786748ce627a9df9e ""
-  "c:/Users/rocio/Documents/latex_pruebas/TallerLaTeXUCO/taller.tex" 1604150966 1069 856e8e2895e9128725c29933e5c5fafc ""
+  "c:/Users/rocio/Documents/latex_pruebas/TallerLaTeXUCO/taller.tex" 1604151169 1069 856e8e2895e9128725c29933e5c5fafc ""
   "estilo.sty" 1604150508 1037 080d79454b003fd2e6632fcb20601c1a ""
   "pic/Ionization_energies.png" 1604150508 249547 36161e9bfa979d1348a3e860a6a63e56 ""
-  "taller.tex" 1604150966 1069 856e8e2895e9128725c29933e5c5fafc ""
+  "taller.tex" 1604151169 1069 856e8e2895e9128725c29933e5c5fafc ""
   (generated)
   "PDF/taller.out"
-  "PDF/taller.aux"
   "PDF/taller.log"
-  "c:/Users/rocio/Documents/latex_pruebas/TallerLaTeXUCO/PDF/taller.pdf"
-  "c:/Users/rocio/Documents/latex_pruebas/TallerLaTeXUCO/PDF/taller.log"
   "PDF/taller.pdf"
+  "c:/Users/rocio/Documents/latex_pruebas/TallerLaTeXUCO/PDF/taller.pdf"
+  "PDF/taller.aux"
+  "c:/Users/rocio/Documents/latex_pruebas/TallerLaTeXUCO/PDF/taller.log"
